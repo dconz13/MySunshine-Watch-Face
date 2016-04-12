@@ -1,0 +1,43 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Sunshine Watch Face</string>
+    <string name="my_digital_name">Sunshine Watch Face</string>
+
+    <string name="format_temperature"><xliff:g id="temp">%1.0f</xliff:g>\u00B0</string>
+
+    <!-- Days of the week -->
+    <string name="Sunday">Sun</string>
+    <string name="Monday">Mon</string>
+    <string name="Tuesday">Tue</string>
+    <string name="Wednesday">Wed</string>
+    <string name="Thursday">Thu</string>
+    <string name="Friday">Fri</string>
+    <string name="Saturday">Sat</string>
+
+    <!-- Months of the year -->
+    <string name="January">Jan</string>
+    <string name="February">Feb</string>
+    <string name="March">Mar</string>
+    <string name="April">Apr</string>
+    <string name="May">May</string>
+    <string name="June">Jun</string>
+    <string name="July">Jul</string>
+    <string name="August">Aug</string>
+    <string name="September">Sep</string>
+    <string name="October">Oct</string>
+    <string name="November">Nov</string>
+    <string name="December">Dec</string>
+    <!-- UnDecember is the 13th month on the lunar calendar. It is listed in the documentation for Calendar -->
+    <string name="UnDecember">Und</string>
+
+    <string name="Unknown">UNK</string>
+
+    <!-- key-value pair strings -->
+    <string name="isMetric" translatable="false">isMetric</string>
+    <string name="high_temp" translatable="false">high</string>
+    <string name="low_temp" translatable="false">low</string>
+    <string name="weather_art" translatable="false">weatherArt</string>
+    <string name="image_directory" translatable="false">/image</string>
+    <string name="sent_time" translatable="false">time</string>
+    <string name="data_request" translatable="false">/data_request</string>
+
+</resources>
